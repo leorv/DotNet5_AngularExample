@@ -1,0 +1,12 @@
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\bin\Debug\net5.0\QuickBuy.Domain.deps.json
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\bin\Debug\net5.0\QuickBuy.Domain.dll
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\bin\Debug\net5.0\ref\QuickBuy.Domain.dll
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\bin\Debug\net5.0\QuickBuy.Domain.pdb
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.AssemblyInfo.cs
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.dll
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\ref\QuickBuy.Domain.dll
+C:\Users\leona\source\repos\QuickBuy\QuickBuy.Domain\obj\Debug\net5.0\QuickBuy.Domain.pdb
